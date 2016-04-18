@@ -60,7 +60,6 @@ PRODUCT_COPY_FILES += \
     $(NOTIFICATION_PATH)/Mystery.ogg:system/media/audio/notifications/Mystery.ogg \
     $(NOTIFICATION_PATH)/OpenBottle.ogg:system/media/audio/notifications/OpenBottle.ogg \
     $(NOTIFICATION_PATH)/Piano.ogg:system/media/audio/notifications/Piano.ogg \
-    $(NOTIFICATION_PATH)/Guitar.ogg:system/media/audio/notifications/Guitar.ogg \
     $(NOTIFICATION_PATH)/Searchlight.ogg:system/media/audio/notifications/Searchlight.ogg \
     $(NOTIFICATION_PATH)/Spring.ogg:system/media/audio/notifications/Spring.ogg
 
@@ -86,7 +85,7 @@ PRODUCT_COPY_FILES += \
     $(RINGTONE_PATH)/Enthusiastic.ogg:system/media/audio/ringtones/Enthusiastic.ogg \
     $(RINGTONE_PATH)/Freedom.ogg:system/media/audio/ringtones/Freedom.ogg \
     $(RINGTONE_PATH)/Game.ogg:system/media/audio/ringtones/Game.ogg \
-    $(RINGTONE_PATH)/GuitarClasic.ogg:system/media/audio/ringtones/GuitarClasic.ogg \
+    $(RINGTONE_PATH)/GuitarClassic.ogg:system/media/audio/ringtones/GuitarClassic.ogg \
     $(RINGTONE_PATH)/GuitarPop.ogg:system/media/audio/ringtones/GuitarPop.ogg \
     $(RINGTONE_PATH)/GuitarRetro.ogg:system/media/audio/ringtones/GuitarRetro.ogg \
     $(RINGTONE_PATH)/IceWorldPiano.ogg:system/media/audio/ringtones/IceWorldPiano.ogg \
@@ -101,7 +100,6 @@ PRODUCT_COPY_FILES += \
     $(RINGTONE_PATH)/MorningSunshine.ogg:system/media/audio/ringtones/MorningSunshine.ogg \
     $(RINGTONE_PATH)/MusicBox.ogg:system/media/audio/ringtones/MusicBox.ogg \
     $(RINGTONE_PATH)/Orange.ogg:system/media/audio/ringtones/Orange.ogg \
-    $(RINGTONE_PATH)/Raindrops.ogg:system/media/audio/ringtones/Raindrops.ogg \
     $(RINGTONE_PATH)/Raindrops.ogg:system/media/audio/ringtones/Raindrops.ogg 
    
     
